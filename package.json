@@ -1,0 +1,25 @@
+{
+  "name": "angular-stomp",
+  "version": "0.2.0",
+  "description": "Angular wrapping of Stompjs.",
+  "main": "angular-stomp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DRB-IT/AngularStomp.git"
+  },
+  "keywords": [
+    "angular",
+    "stomp"
+  ],
+  "author": "Michael Krog",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/DRB-IT/AngularStomp/issues"
+  },
+  "devDependencies": {
+    "bower":"1.2.6"
+  }
+}

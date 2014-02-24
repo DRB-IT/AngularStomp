@@ -1,0 +1,23 @@
+{
+  "name": "angular-stomp",
+  "version": "0.2.0",
+  "homepage": "https://github.com/DRB-IT/AngularStomp",
+  "authors": [
+    "Michael Krog"
+  ],
+  "description": "Stomp for Angular",
+  "main": "angular-stomp.js",
+  "keywords": [
+    "angular",
+    "stomp"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
